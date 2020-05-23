@@ -1,4 +1,5 @@
 Comment "AdKit E - embedded ads in Shortcuts\n\nMade by @FifiTheBulldog, based on AdKit by @eaic\n\nAccepts a dictionary as input (please note that this is not quite identical to the dictionary for AdKit):\n\n\"Function\": \"AdKit\"\n\"ID\": ad ID\n\"Menu\": vCard menu to append ads\n\"Prompt\": menu prompt"
+GetDictionaryFromInput
 GetDictionaryValue key="Function"
 If input="Equals" "AdKit"
   GetCurrentIPAddress
