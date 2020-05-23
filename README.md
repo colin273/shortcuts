@@ -2,4 +2,4 @@
 
 iOS 12-compatible version of iOS shortcuts, built using ScPL.
 
-[AdKit E](https://github.com/FifiTheBulldog/shortcuts/blob/master/AdKit%20E/README.md)
+[AdKit E](https://github.com/FifiTheBulldog/shortcuts/blob/master/AdKit%20E/)
