@@ -1,6 +1,8 @@
 # @FifiTheBulldog's iOS 12 Shortcuts
 
-iOS 12-compatible version of iOS shortcuts, built using ScPL.
+iOS 12-compatible versions of iOS shortcuts, built using ScPL.
+
+My RoutineHub profile: https://routinehub.com/user/FifiTheBulldog
 
 [AdBreak](https://github.com/FifiTheBulldog/shortcuts/tree/master/AdBreak)
 
